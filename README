@@ -1,0 +1,248 @@
+# Clothing Sales & Inventory Tracker | Excel MIS Project
+
+## 📌 Project Overview
+
+The **Clothing Sales & Inventory Tracker** is an Excel-based MIS project designed to manage and monitor product inventory, sales, purchases, stock adjustments, and business performance.
+
+The workbook combines transaction-level data with automated calculations and a dashboard to provide a structured view of sales performance, profitability, inventory levels, and products requiring attention.
+
+The project demonstrates how Excel can be used to build a practical reporting and inventory management solution without requiring a separate database or BI application.
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are to:
+
+- Track clothing product inventory
+- Record sales and purchase transactions
+- Monitor current stock levels
+- Calculate sales and gross profit
+- Identify products requiring reorder
+- Detect stock and input-related issues
+- Track monthly business performance
+- Provide management-level KPIs
+- Reduce manual reporting effort through Excel formulas and automation
+
+---
+
+## 📂 Workbook Structure
+
+The workbook contains the following sheets:
+
+### 1. Dashboard
+
+Provides a summarized view of important business KPIs and reporting metrics.
+
+The dashboard is designed to help monitor:
+
+- Sales performance
+- Gross profit
+- Units sold
+- Inventory value
+- Reorder requirements
+- Monthly performance
+- Year-based reporting
+
+---
+
+### 2. Stock
+
+Used to monitor inventory availability and stock-related information.
+
+It helps identify:
+
+- Current stock levels
+- Products requiring reorder
+- Negative or problematic stock values
+- Inventory requiring management attention
+
+---
+
+### 3. Products
+
+Contains the product master information used throughout the workbook.
+
+The product data supports:
+
+- SKU-based tracking
+- Product identification
+- Pricing and cost information
+- Inventory calculations
+- Duplicate SKU validation
+
+---
+
+### 4. Transactions
+
+Stores transaction-level activity for the inventory system.
+
+The transaction structure supports activities such as:
+
+- Sales
+- Purchases
+- Stock adjustments
+
+These transactions are used to calculate inventory movement and reporting metrics.
+
+---
+
+### 5. Start Here
+
+Provides guidance for using and understanding the workbook.
+
+---
+
+## 📊 Key Features
+
+### Inventory Management
+
+The workbook tracks inventory movement based on transaction activity and helps monitor the current stock position of products.
+
+### Sales Reporting
+
+Sales transactions are used to calculate and monitor business performance.
+
+### Gross Profit Analysis
+
+The tracker calculates sales and cost-related information to support gross profit reporting.
+
+### Reorder Monitoring
+
+Products requiring replenishment can be identified through stock and reorder-related indicators.
+
+### Data Validation
+
+The workbook includes validation and error-checking logic to help identify problems such as:
+
+- Invalid transaction inputs
+- Duplicate SKUs
+- Negative stock situations
+- Inventory issues requiring attention
+
+The dashboard can indicate when input problems need to be corrected instead of presenting potentially misleading KPI results.
+
+### Monthly Reporting
+
+Transaction dates are used to support monthly performance analysis and reporting.
+
+### Year-Based Analysis
+
+The dashboard supports year-based reporting for reviewing business performance across different periods.
+
+---
+
+## 🧮 Excel Skills Demonstrated
+
+This project demonstrates practical Excel and MIS reporting skills including:
+
+- Excel formulas
+- Conditional logic
+- Lookup functions
+- Data validation
+- Error handling
+- Inventory calculations
+- Sales calculations
+- Gross profit calculations
+- Stock valuation
+- Reorder monitoring
+- Monthly reporting
+- KPI reporting
+- Dashboard development
+- Structured data management
+
+---
+
+## 💼 MIS Skills Demonstrated
+
+The project applies Excel to common MIS activities such as:
+
+- Maintaining structured business records
+- Monitoring sales and inventory data
+- Validating data accuracy
+- Tracking KPIs
+- Identifying exceptions and errors
+- Monitoring stock availability
+- Preparing management-level reports
+- Analyzing monthly performance
+- Supporting business decisions with structured reporting
+
+---
+
+## 📈 Business Use Case
+
+A clothing business needs to regularly answer questions such as:
+
+- How much are we selling?
+- What is our gross profit?
+- Which products are running low on stock?
+- What is the current inventory value?
+- Which products need to be reordered?
+- Are there errors in the transaction data?
+- How is performance changing month by month?
+
+This Excel tracker organizes the required data and calculations into a single reporting workflow.
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Excel Formulas
+- Data Validation
+- Conditional Formatting
+- Excel Dashboarding
+
+---
+
+## 📁 Repository Structure
+
+```text
+clothing-sales-inventory-tracker/
+│
+├── Clothing_Sales_Inventory_Tracker.xlsx
+├── README.md
+│
+└── screenshots/
+    └── dashboard.png
+```
+
+---
+
+## 🚀 How to Use
+
+1. Download the Excel workbook.
+2. Open it in Microsoft Excel.
+3. Review the **Start Here** sheet.
+4. Maintain product information in the **Products** sheet.
+5. Record business activity in the **Transactions** sheet.
+6. Review inventory information in the **Stock** sheet.
+7. Check for validation or stock-related issues.
+8. Use the **Dashboard** to monitor KPIs and business performance.
+
+---
+
+## 📸 Dashboard Preview
+
+Add a screenshot of the completed dashboard here:
+
+```markdown
+![Clothing Sales & Inventory Dashboard](screenshots/dashboard.png)
+```
+
+---
+
+## 🎯 Project Purpose
+
+This project was created as part of my **MIS and Data Analytics portfolio** to demonstrate practical Excel skills in business reporting, inventory management, data validation, KPI tracking, and dashboard development.
+
+---
+
+## 👤 Author
+
+**Aquib Mapari**
+
+MIS & Data Analytics Portfolio
+
+- GitHub: [kakamapari](https://github.com/kakamapari)
+- LinkedIn: [Aquib Mapari](https://www.linkedin.com/in/aquibmapari)
